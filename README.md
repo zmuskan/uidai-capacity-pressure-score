@@ -26,4 +26,16 @@ Trend indicators for future capacity pressure
 
 Reproducible, transparent analysis suitable for policy review
 
+## Key Visual Outputs
+
+### State-wise Capacity Pressure Score
+![CPS Ranking](visuals/plot_1_cps_ranking.png)
+
+### Update Load vs Volatility
+![Load vs Volatility](visuals/plot_2_load_vs_volatility.png)
+
+### Monthly Trends in High-Pressure States
+![Monthly Trends](visuals/plot_3_monthly_trends.png)
+
+
 All analysis is based exclusively on UIDAI-provided Aadhaar datasets.
