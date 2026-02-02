@@ -1,3 +1,8 @@
+## 📄 Project Report
+
+The complete project report submitted for the UIDAI Aadhaar Data Hackathon is available below:
+
+👉 **[Download the full report (PDF)](CPS.UIDAI.pdf)**
 ---
 UIDAI Capacity Pressure Score Framework
 ---
